@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 ola meu nome é Nicolas Sampaio
+=======
+ola meu nome é Nicolas Rodrigues Sampaio.
+>>>>>>> master
 ola eu sou uma nova linha
